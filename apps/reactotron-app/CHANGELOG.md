@@ -2,6 +2,13 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [3.10.0](https://github.com/infinitered/reactotron/compare/reactotron-app@3.9.0...reactotron-app@3.10.0) (2026-04-06)
+
+
+### Features
+
+* **reactotron-app:** add copy button for nested objects in API response ([ab13fa4](https://github.com/infinitered/reactotron/commit/ab13fa4257a2f7a15e28cbda96c0da727fe17b12))
+
 ## [3.9.0](https://github.com/infinitered/reactotron/compare/reactotron-app@3.8.2...reactotron-app@3.9.0) (2026-03-30)
 
 
