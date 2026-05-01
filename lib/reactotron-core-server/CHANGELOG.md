@@ -2,6 +2,13 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [3.3.0](https://github.com/infinitered/reactotron/compare/reactotron-core-server@3.2.1...reactotron-core-server@3.3.0) (2026-05-01)
+
+
+### Features
+
+* add MCP server for Claude Code integration ([#1598](https://github.com/infinitered/reactotron/issues/1598)) ([5aba55f](https://github.com/infinitered/reactotron/commit/5aba55fb97d80a69e8176f4c46588937fb507848))
+
 ### [3.2.1](https://github.com/infinitered/reactotron/compare/reactotron-core-server@3.2.0...reactotron-core-server@3.2.1) (2025-09-16)
 
 ## [3.2.0](https://github.com/infinitered/reactotron/compare/reactotron-core-server@3.1.5...reactotron-core-server@3.2.0) (2025-03-16)
